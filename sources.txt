@@ -1,5 +1,3 @@
-必须要包含后面这句话,否则无法正常解析.
-文档开始标志位置
 央视IPv6,#genre#
 cctv1[ipv6],https://stream1.freetv.fun/95cc7a9a16c9974d8c981d42c9a213879904ab744e95150717697089791ab4f0.m3u8
 cctv2[ipv6],https://stream1.freetv.fun/85346f68b17e8bb5081071666d6d2f2468a3fe75488cecd153ad6385059d8175.m3u8
@@ -4344,3 +4342,4 @@ DJ打碟 Amy Wiles,https://vd2.bdstatic.com/mda-kkdf3jba9fsp4hr2/v1-cae/sc/mda-k
 DJ打碟Toquinho,https://vd4.bdstatic.com/mda-ncn8353qdj4250ga/sc/cae_h264_delogo/1648019138180108259/mda-ncn8353qdj4250ga.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565393-0-0-3aba7cd19b150ed7cf2598254312daf0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2392920723&vid=12398024234293028218&abtest=103742_2-103890_2-103579_2&klogid=2392920723
 DJ打碟Oz Green,https://vd4.bdstatic.com/mda-nbc8e7p8yim7q4kw/sc/cae_h264_delogo/1644734834302724788/mda-nbc8e7p8yim7q4kw.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565409-0-0-934b58e48f6e9b4cdf45b5c8c1f01ad3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2409235034&vid=16458997361411576188&abtest=103742_2-103890_2-103579_2&klogid=2409235034
 文档结束标志位置
+
